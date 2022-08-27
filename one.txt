@@ -1,2 +1,6 @@
 dgsdgsddone
+<<<<<<< HEAD
 i also change thsi
+=======
+hi this sifath is leraneing git and github
+>>>>>>> staging
